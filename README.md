@@ -1,2 +1,3 @@
 # Edureka
-This is practice repository
+This is a practice repository
+This is my first commit
